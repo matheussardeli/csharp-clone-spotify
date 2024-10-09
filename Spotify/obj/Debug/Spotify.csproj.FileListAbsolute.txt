@@ -1,0 +1,12 @@
+C:\Users\matheus.smalheiros\source\repos\Spotify\Spotify\bin\Debug\Spotify.exe.config
+C:\Users\matheus.smalheiros\source\repos\Spotify\Spotify\bin\Debug\Spotify.exe
+C:\Users\matheus.smalheiros\source\repos\Spotify\Spotify\bin\Debug\Spotify.pdb
+C:\Users\matheus.smalheiros\source\repos\Spotify\Spotify\obj\Debug\Spotify.csproj.AssemblyReference.cache
+C:\Users\matheus.smalheiros\source\repos\Spotify\Spotify\obj\Debug\Spotify.FPrincipal.resources
+C:\Users\matheus.smalheiros\source\repos\Spotify\Spotify\obj\Debug\Spotify.Properties.Resources.resources
+C:\Users\matheus.smalheiros\source\repos\Spotify\Spotify\obj\Debug\Spotify.csproj.GenerateResource.cache
+C:\Users\matheus.smalheiros\source\repos\Spotify\Spotify\obj\Debug\Spotify.csproj.CoreCompileInputs.cache
+C:\Users\matheus.smalheiros\source\repos\Spotify\Spotify\obj\Debug\Spotify.exe
+C:\Users\matheus.smalheiros\source\repos\Spotify\Spotify\obj\Debug\Spotify.pdb
+C:\Users\matheus.smalheiros\source\repos\Spotify\Spotify\bin\Debug\Guna.UI2.dll
+C:\Users\matheus.smalheiros\source\repos\Spotify\Spotify\obj\Debug\Spotify.csproj.Up2Date
